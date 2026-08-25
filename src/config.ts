@@ -80,7 +80,7 @@ export const config = {
             technologies: "Python, Scikit-learn, Pandas, NumPy, HTML/CSS",
             image: "/images/salarypredictor.png",
             description: "Machine learning web app that accurately estimates employee salaries based on work experience, education level, and job role, backed by data cleaning and regression modeling.",
-            link: "https://revadi-jaswanth.github.io/Employee-Salary-Prediction/"
+            link: "https://github.com/Revadi-Jaswanth/Employee-Salary-Prediction"
         }
     ],
     education: [
