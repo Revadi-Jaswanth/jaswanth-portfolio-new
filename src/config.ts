@@ -130,7 +130,7 @@ export const config = {
     contact: {
         email: "revadijaswanth@gmail.com",
         web3formsKey: "af8a7726-4c99-4dd7-a2de-7071846a1990",
-        resumeUrl: "/Revadi_Jaswanth_Resume.pdf",
+        resumeUrl: "/RNS_Jaswanth_Resume.pdf",
         github: "https://github.com/Revadi-Jaswanth",
         linkedin: "https://www.linkedin.com/in/naga-sai-jaswanth-revadi-93702b295/",
         twitter: "https://x.com/JaswanthRevadi",
