@@ -1,11 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/Employee-Salary-Prediction/:path*",
-      "destination": "https://github.com/Revadi-Jaswanth/Employee-Salary-Prediction",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/api/(.*)",

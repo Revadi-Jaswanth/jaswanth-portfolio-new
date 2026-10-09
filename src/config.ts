@@ -18,9 +18,9 @@ export const config = {
         {
             position: "Python Tech Stack Intern",
             company: "Infosys Springboard",
-            period: "Jun 2026 - Present",
+            period: "Jun 2026 - Sep 2026",
             location: "Virtual",
-            description: "Selected for Infosys Springboard Virtual Internship 7.0 after completing prerequisite coursework. Building practical expertise in Python through industry-oriented training, project-based learning, and real-world development tasks.",
+            description: "Selected for Infosys Springboard Virtual Internship 7.0 after completing prerequisite coursework.Worked on full-stack application features involving dynamic forms, data handling, and REST API integration.",
         },
         {
             position: "AI Intern",
@@ -57,6 +57,15 @@ export const config = {
         },
         {
             id: 2,
+            title: "FORMCRAFT — Dynamic Form Platform",
+            category: "",
+            technologies: "Python, FastAPI, React, PostgreSQL, Recharts, HTML, TailwindCSS",
+            image: "/images/formcraft.png",
+            description: "Low-code form builder platform featuring dynamic form creation, 11 customizable field types, an 8-operator IF/THEN conditional rule engine, data validation, and role-based access control, reducing form creation time by 90%.",
+            link: "https://formcraft-saas-form-engine.vercel.app/"
+        },
+        {
+            id: 3,
             title: "FITSAGE AI - HEALTH COACH",
             category: "",
             technologies: "React, Python, Flask, MySQL, Google Gemini API, Recharts, HTML/CSS",
@@ -65,7 +74,16 @@ export const config = {
             link: "https://fit-sage-ai.vercel.app/"
         },
         {
-            id: 3,
+            id: 4,
+            title: "AI RESUME ANALYZER",
+            category: "",
+            technologies: "Python, Streamlit, OpenAI API, Scikit-learn, NLP, HTML/CSS",
+            image: "/images/resumeanalyzer.png",
+            description: "AI-powered resume optimization platform featuring ATS compatibility analysis, dynamic resume scoring, skill and keyword detection, actionable improvement suggestions, multi-format document upload, and semantic job description matching.",
+            link: "https://ai-resume-analyzer-better-resume-brighter-future.streamlit.app/"
+        },
+        {
+            id: 5,
             title: "AI-POWERED STUDY BUDDY",
             category: "",
             technologies: "Python, Streamlit, Google Gemini API, PyPDF, SQLite, HTML/CSS",
@@ -74,13 +92,13 @@ export const config = {
             link: "https://aistudybuddy-v6zkmih6dh42r5za4jnxrf.streamlit.app/"
         },
         {
-            id: 4,
+            id: 6,
             title: "EMPLOYEE SALARY PREDICTOR",
             category: "",
             technologies: "Python, Scikit-learn, Pandas, NumPy, HTML/CSS",
             image: "/images/salarypredictor.png",
             description: "Machine learning web app that accurately estimates employee salaries based on work experience, education level, and job role, backed by data cleaning and regression modeling.",
-            link: "https://github.com/Revadi-Jaswanth/Employee-Salary-Prediction"
+            link: "https://revadi-jaswanth.github.io/Employee-Salary-Prediction/"
         }
     ],
     education: [
@@ -134,6 +152,27 @@ export const config = {
         }
     },
     certifications: [
+        {
+            title: "Certified Foundations Associate – Agentic AI",
+            issuer: "Oracle",
+            icon: "🧠",
+            verified: true,
+            url: "#"
+        },
+        {
+            title: "Certified Back-End Developer – ABAP Cloud",
+            issuer: "SAP",
+            icon: "☁️",
+            verified: true,
+            url: "#"
+        },
+        {
+            title: "Certified Associate Developer – Python",
+            issuer: "MongoDB",
+            icon: "🗄️",
+            verified: true,
+            url: "#"
+        },
         {
             title: "Applied AI Foundations",
             issuer: "OpenAI Academy",
@@ -220,5 +259,3 @@ export const config = {
         }
     ]
 };
-
-
